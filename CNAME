@@ -1,6 +1,0 @@
-technicians.coversafe.com
-git init
-git add .
-git commit -m "Inital commit"
-git remote add origin https://github.com/alexnewbold-coversafe/technicians.git
-git push -u origin main
